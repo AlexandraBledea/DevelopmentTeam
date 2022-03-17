@@ -1,0 +1,4 @@
+C:/Users/night/Documents/GitHub/Projects/Develpoment Team/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/night/Documents/GitHub/Projects/Develpoment Team/cmake-build-debug/CMakeFiles/Develpoment_Team.dir
+C:/Users/night/Documents/GitHub/Projects/Develpoment Team/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/night/Documents/GitHub/Projects/Develpoment Team/cmake-build-debug/CMakeFiles/Develpoment_Team_autogen.dir
